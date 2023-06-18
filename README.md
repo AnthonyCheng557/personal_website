@@ -9,3 +9,6 @@ https://acwebs557.000webhostapp.com/index.html#about.
 
 Enjoy.
 ~Anthony
+
+Edit: The files are not carbon copies as the one on 000webHost, files had to be edited within the host sever 
+in order to best showcase the web depending on the resolutions.
