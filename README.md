@@ -12,3 +12,5 @@ Enjoy.
 
 Edit: The files are not carbon copies as the one on 000webHost, files had to be edited within the host server 
 in order to best showcase the web depending on the resolutions. <-- This is not perfect either.
+
+Edit: Currently using Netify to host the web.
