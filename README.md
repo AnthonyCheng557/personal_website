@@ -14,3 +14,5 @@ Edit: The files are not carbon copies as the one on 000webHost, files had to be 
 in order to best showcase the web depending on the resolutions. <-- This is not perfect either.
 
 Edit: Currently using Netify to host the web.
+Link: https://splendid-bonbon-18177b.netlify.app
+
